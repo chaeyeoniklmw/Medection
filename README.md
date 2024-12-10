@@ -7,7 +7,7 @@ GDG on SWU AI/ML solo project
 Our system is designed to assist individuals who are unfamiliar with their medication. By simply taking a picture of a pill packet, the system detects the type of medication and provides a detailed explanation of its function. Additionally, the system analyzes the combined functionality of the detected pills, offering insights into the overall treatment purpose.
 
 
-![data_labeling](https://github.com/user-attachments/assets/d6e04b92-399a-4922-9b41-2c99fd122d21)
+![data_labeling](https://github.com/user-attachments/assets/d6e04b92-399a-4922-9b41-2c99fd122d21/800x400)
 
 
 ### ✨ Features:
