@@ -28,6 +28,7 @@ Our system is designed to assist individuals who are unfamiliar with their medic
 | **Frameworks**             | PyTorch, TensorFlow  |
 | **Frontend**               | Streamlit            |
 | **Visualization**          | Matplotlib, OpenCV   |
+| **Data Labeling & Dataset Management** | Roboflow            |
 | **Deployment**             | Docker, AWS/GCP      |
 
 ---
