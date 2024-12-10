@@ -47,6 +47,7 @@ Our system is designed to assist individuals who are unfamiliar with their medic
 
 ![streamlit-med_test-2024-12-11-00-12-29.webm](https://github.com/user-attachments/assets/013c6c91-688a-4d65-827c-3f0849586e58/800x400)
 
+![streamlit-med_test-2024-12-11-00-12-29.webm](https://github.com/user-attachments/assets/999a56b4-83fa-44b1-81e1-bddabbc18d96)
 
 
 Stay tuned for a live demo link! 🚧
