@@ -45,7 +45,9 @@ Our system is designed to assist individuals who are unfamiliar with their medic
 2. **Step 2**: The system detects individual pills and highlights them with bounding boxes.
 3. **Step 3**: Provides detailed descriptions of detected pills and their combined purpose.
 
-![Demo Image](https://via.placeholder.com/800x400)
+![streamlit-med_test-2024-12-11-00-12-29.webm](https://github.com/user-attachments/assets/013c6c91-688a-4d65-827c-3f0849586e58/800x400)
+
+
 
 Stay tuned for a live demo link! 🚧
 
