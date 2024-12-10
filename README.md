@@ -22,7 +22,6 @@ Our system is designed to assist individuals who are unfamiliar with their medic
 - Achieve accurate detection of individual pills.
 - Expand functionality to detect pill packets and infer their purpose in real-world settings.
 
-- **YOLOv8** : mAP50 0.724, mAP50-95는 0.509
 
 ---
 
@@ -52,6 +51,15 @@ Stay tuned for a live demo link! 🚧
 
 ---
 
-👩‍💻 **Contributors**  
-[Your Name](https://github.com/your-profile)  
-[Team Member 2](https://github.com/team-member-2)  
+## 📊 Performance
+
+### Object Detection Model Comparison
+| Model              | mAP50    | mAP50-95 |
+|--------------------|----------|----------|
+| **YOLOv8**         | 0.724    | 0.509    |
+| **Faster R-CNN**   | TBD      | TBD      |
+| **RetinaNet**      | TBD      | TBD      |
+
+### Model Evaluation
+- **YOLOv8** has shown strong results in detecting pills with a higher mAP50 score compared to other models.
+- We are currently evaluating Faster R-CNN and RetinaNet for their performance on pill detection tasks.
