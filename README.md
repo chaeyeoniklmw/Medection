@@ -22,7 +22,7 @@ Our system is designed to assist individuals who are unfamiliar with their medic
 - Achieve accurate detection of individual pills.
 - Expand functionality to detect pill packets and infer their purpose in real-world settings.
 
-- **YOLOv8** mAP50 0.724, mAP50-95는 0.509
+- **YOLOv8** : mAP50 0.724, mAP50-95는 0.509
 
 ---
 
