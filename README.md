@@ -25,7 +25,7 @@ Our system is designed to assist individuals who are unfamiliar with their medic
 - Compare **three cutting-edge object detection models**: YOLOv8, Faster R-CNN, and RetinaNet, to identify the best-performing model for pill detection.
 - Achieve accurate detection of individual pills.
 - Expand functionality to detect pill packets and infer their purpose in real-world settings.
-- 
+  
 - **YOLOv8, Faster R-CNN, RetinaNet** 세 가지 최신 객체 탐지 모델을 비교하여 알약 탐지에 가장 적합한 모델을 선정합니다.
 - **개별 알약의 정확한 탐지**를 목표로 합니다.
 - 실제 환경에서 **알약 포장지 탐지** 및 **약물 목적 추론** 기능을 확장합니다.
