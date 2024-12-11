@@ -14,7 +14,6 @@ Our system is designed to assist individuals who are unfamiliar with their medic
 - **Pill Detection**: Automatically identify pills using state-of-the-art detection models.
 - **Function Explanation**: Understand what each pill does and the purpose of the prescribed combination.
 - **User Benefits**: Reduces the hassle of revisiting the hospital for a repeat prescription by tracking previously prescribed medications.
-- 
 - **알약 탐지**: 최첨단 탐지 모델을 사용해 알약을 자동으로 인식합니다.
 - **기능 설명**: 각 알약이 무엇을 하는지, 처방된 약물 조합의 목적을 이해할 수 있습니다.
 - **사용자 혜택**: 이전에 처방된 약물을 추적하여 병원에 다시 방문할 필요를 줄여줍니다.
