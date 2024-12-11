@@ -1,0 +1,11 @@
+train: 
+  - C:/medection/dataset/train/images/combined_pill
+  - C:/medection/dataset/train/images/single_pill
+val: 
+  - C:/medection/dataset/val/images/combined_pill
+  - C:/medection/dataset/val/images/single_pill
+
+nc: 2  # 클래스 개수
+names: 
+  0: combined_pill
+  1: single_pill
