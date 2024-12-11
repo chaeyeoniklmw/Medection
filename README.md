@@ -68,7 +68,7 @@ Stay tuned for a live demo link! 🚧
 | **Faster R-CNN**   | TBD      | TBD      |
 | **RetinaNet**      | TBD      | TBD      |
 
-### Model Evaluation
+### ⏬ Model Evaluation
 - **YOLOv8** has shown strong results in detecting pills with a higher mAP50 score compared to other models.
 
 ### 👼 Development (+)
