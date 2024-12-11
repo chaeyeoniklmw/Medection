@@ -1,5 +1,3 @@
-# Medection
-GDG on SWU AI/ML solo project
 
 # Pill Detection and Function Explanation System
 ![image](https://github.com/user-attachments/assets/91105ea0-9116-4cf0-b0d5-687af01d8c5e)
