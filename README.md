@@ -2,6 +2,7 @@
 GDG on SWU AI/ML solo project
 
 # Pill Detection and Function Explanation System
+![image](https://github.com/user-attachments/assets/91105ea0-9116-4cf0-b0d5-687af01d8c5e)
 
 ## 🚀 Service Introduction
 Our system is designed to assist individuals who are unfamiliar with their medication. By simply taking a picture of a pill packet, the system detects the type of medication and provides a detailed explanation of its function. Additionally, the system analyzes the combined functionality of the detected pills, offering insights into the overall treatment purpose.
